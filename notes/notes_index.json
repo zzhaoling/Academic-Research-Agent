@@ -1,0 +1,478 @@
+{
+  "notes": [
+    {
+      "id": "note_20260407_152216_0",
+      "title": "任务 1: 组织概况",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-04-07T15:22:16.057413"
+    },
+    {
+      "id": "note_20260407_152216_1",
+      "title": "任务 2: 运作模式",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-04-07T15:22:16.070851"
+    },
+    {
+      "id": "note_20260407_152216_2",
+      "title": "任务 3: 核心项目",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-04-07T15:22:16.073384"
+    },
+    {
+      "id": "note_20260407_152216_3",
+      "title": "任务 4: 社区影响",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-04-07T15:22:16.075446"
+    },
+    {
+      "id": "note_20260407_152705_4",
+      "title": "研究报告：Datawhale是一个什么样的组织？",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-07T15:27:05.472441"
+    },
+    {
+      "id": "note_20260408_224517_5",
+      "title": "任务 1: PL模型架构选型",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-04-08T22:45:17.768561"
+    },
+    {
+      "id": "note_20260408_224517_6",
+      "title": "任务 2: 数据集构建方法",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-04-08T22:45:17.781949"
+    },
+    {
+      "id": "note_20260408_224517_7",
+      "title": "任务 3: 预训练策略",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-04-08T22:45:17.781949"
+    },
+    {
+      "id": "note_20260408_224517_8",
+      "title": "任务 4: 微调与对齐",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-04-08T22:45:17.781949"
+    },
+    {
+      "id": "note_20260408_224517_9",
+      "title": "任务 5: 评估指标体系",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_5"
+      ],
+      "created_at": "2026-04-08T22:45:17.786495"
+    },
+    {
+      "id": "note_20260409_000338_10",
+      "title": "规划思考笔记",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_0"
+      ],
+      "created_at": "2026-04-09T00:03:38.357900"
+    },
+    {
+      "id": "note_20260409_001417_11",
+      "title": "任务 1: 数据构建与清洗",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-04-09T00:14:17.578624"
+    },
+    {
+      "id": "note_20260409_001417_12",
+      "title": "任务 2: 架构与预训练",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-04-09T00:14:17.581243"
+    },
+    {
+      "id": "note_20260409_001417_13",
+      "title": "任务 3: 微调与指令对齐",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-04-09T00:14:17.582283"
+    },
+    {
+      "id": "note_20260409_001417_14",
+      "title": "任务 4: 评估与基准测试",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-04-09T00:14:17.596361"
+    },
+    {
+      "id": "note_20260409_114034_15",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T11:40:34.120653"
+    },
+    {
+      "id": "note_20260409_114045_16",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T11:40:45.379250"
+    },
+    {
+      "id": "note_20260409_114532_17",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T11:45:32.458237"
+    },
+    {
+      "id": "note_20260409_114542_18",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T11:45:42.973167"
+    },
+    {
+      "id": "note_20260409_120541_19",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T12:05:41.263023"
+    },
+    {
+      "id": "note_20260409_120550_20",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T12:05:50.786745"
+    },
+    {
+      "id": "note_20260409_122305_21",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T12:23:05.620510"
+    },
+    {
+      "id": "note_20260409_122314_22",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T12:23:14.015907"
+    },
+    {
+      "id": "note_20260409_153711_23",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T15:37:11.939941"
+    },
+    {
+      "id": "note_20260409_153721_24",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T15:37:21.556995"
+    },
+    {
+      "id": "note_20260409_164751_25",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T16:47:51.849569"
+    },
+    {
+      "id": "note_20260409_164803_26",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T16:48:03.175447"
+    },
+    {
+      "id": "note_20260409_184539_27",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T18:45:39.154192"
+    },
+    {
+      "id": "note_20260409_184551_28",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T18:45:51.336294"
+    },
+    {
+      "id": "note_20260409_185251_29",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T18:52:51.904191"
+    },
+    {
+      "id": "note_20260409_185305_30",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T18:53:05.764222"
+    },
+    {
+      "id": "note_20260409_214200_31",
+      "title": "研究报告：5G信道建模的基本方法",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T21:42:00.697359"
+    },
+    {
+      "id": "note_20260409_221358_32",
+      "title": "研究报告：5G信道建模基础",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:13:58.730212"
+    },
+    {
+      "id": "note_20260409_221419_33",
+      "title": "研究报告：5G信道建模基础",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:14:19.842259"
+    },
+    {
+      "id": "note_20260409_221448_34",
+      "title": "研究报告：5G信道建模基础",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:14:48.948208"
+    },
+    {
+      "id": "note_20260409_223318_35",
+      "title": "研究报告：5G信道建模基础",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:33:18.273781"
+    },
+    {
+      "id": "note_20260409_223348_36",
+      "title": "研究报告：5G信道建模基础",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:33:48.384642"
+    },
+    {
+      "id": "note_20260409_223411_37",
+      "title": "研究报告：5G信道建模基础",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:34:11.753061"
+    },
+    {
+      "id": "note_20260409_224037_38",
+      "title": "研究报告：5G信道建模基础",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:40:37.524495"
+    },
+    {
+      "id": "note_20260409_224101_39",
+      "title": "研究报告：5G信道建模基础",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:41:01.690147"
+    },
+    {
+      "id": "note_20260409_224121_40",
+      "title": "研究报告：5G信道建模基础",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:41:21.923756"
+    },
+    {
+      "id": "note_20260409_225419_41",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:54:19.707835"
+    },
+    {
+      "id": "note_20260409_225419_42",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:54:19.707835"
+    },
+    {
+      "id": "note_20260409_225419_43",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:54:19.707835"
+    },
+    {
+      "id": "note_20260409_225419_44",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:54:19.731460"
+    },
+    {
+      "id": "note_20260409_225419_45",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-09T22:54:19.733452"
+    },
+    {
+      "id": "note_20260410_002859_46",
+      "title": "研究报告：如何构建PL模型",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-04-10T00:28:59.184482"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-04-07T15:21:38.020340",
+    "total_notes": 47
+  }
+}
