@@ -63,9 +63,9 @@ QDRANT_MODE=embedded
 python src/build_index.py
 ```
 该脚本会：
--解析 PDF 并按页分块
--建立 Qdrant 向量索引
--保存 BM25 索引 (store/bm25.pkl)
+- 解析 PDF 并按页分块
+- 建立 Qdrant 向量索引
+- 保存 BM25 索引 (store/bm25.pkl)
 
 ### 4. 启动服务
 ```bash
